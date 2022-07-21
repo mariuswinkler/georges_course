@@ -1,1 +1,0 @@
-/home/m/m300868/work_cathy/00_DATA/coordinates/bash_box_size_coordinates.py
